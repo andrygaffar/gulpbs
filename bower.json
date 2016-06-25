@@ -1,0 +1,25 @@
+{
+  "name": "binar-bs",
+  "description": "BINAR theme powered by twbs",
+  "main": [
+    "assets/css",
+    "assets/js"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.6",
+    "font-awesome": "fontawesome#~4.5.0",
+    "aos": "^2.0.1"
+  }
+}
